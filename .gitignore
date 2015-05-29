@@ -1,5 +1,5 @@
 *.pyc
 __pycache__
-masenv/
+masato/
 db.sqlite3
 .DS_Store
